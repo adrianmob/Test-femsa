@@ -22,7 +22,7 @@ export const useProducts = () => {
       setFilterProducts(productsResponse);
       setPoints(productsResponse);
     } catch (error) {
-      showToast();
+      showAlert();
     }
     setIsLoading(false);
   };
@@ -71,7 +71,7 @@ export const useProducts = () => {
     navigation.navigate('DetailScreen', product);
   };
 
-  const showToast = () => {
+  const showAlert = () => {
     Alert.alert('Error', 'Ocurrio un error al recuperar los datos.', [
       {text: 'OK', style: 'destructive'},
     ]);

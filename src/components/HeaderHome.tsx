@@ -9,7 +9,7 @@ const HeaderHome = ({totalPoinst}: Props) => {
   return (
     <View>
       <Text style={styles.textWelcome}>Bienvenido de vuelta!</Text>
-      <Text>Ruben Rodriguez</Text>
+      <Text style={styles.textNameUser}>Ruben Rodriguez</Text>
 
       <View style={styles.containerPoints}>
         <Text style={styles.textTitle}>TUS PUNTOS</Text>
@@ -28,10 +28,6 @@ const styles = StyleSheet.create({
     fontSize: 14,
     fontWeight: '800',
     color: '#9B9898',
-  },
-  container: {
-    paddingHorizontal: 20,
-    marginTop: 20,
   },
   textWelcome: {
     fontSize: 20,
@@ -78,38 +74,7 @@ const styles = StyleSheet.create({
     fontWeight: '800',
     color: '#FFFFFF',
     alignSelf: 'center',
-  },
-  containerListProducts: {
-    marginTop: 20,
-  },
-  listProducts: {
-    height: 330,
-    marginTop: 20,
-    paddingHorizontal: 10,
-    paddingVertical: 20,
-    backgroundColor: '#FFFFFF',
-    borderRadius: 16,
-  },
-  containerButtons: {
-    marginTop: 43,
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-  },
-  btnFilter: {
-    paddingHorizontal: 17,
-    paddingVertical: 17,
-    backgroundColor: '#334FFA',
-    borderRadius: 10,
-  },
-  btnFilterAll: {
-    flex: 1,
-  },
-  btnText: {
-    fontSize: 12,
-    fontWeight: '800',
-    color: '#FFFFFF',
-    textAlign: 'center',
-  },
+  }
 });
 
 export default HeaderHome;

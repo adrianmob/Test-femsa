@@ -47,7 +47,8 @@ Once you're up and running with Create React Native App, visit [this tutorial](h
 
 - Loading
 
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-03-12 at 00 14 21](https://user-images.githubusercontent.com/35379088/224527839-4e1e2bc7-0355-47b4-b737-ca0d04c85eab.png)
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-03-12 at 00 14 21](https://user-images.githubusercontent.com/35379088/224528053-01fd1594-4740-47f5-9ecf-a2278d8af1d2.png)
+
 
 - Home
 ![Simulator Screen Shot - iPhone 14 Pro Max - 2023-03-12 at 00 15 07](https://user-images.githubusercontent.com/35379088/224527852-feb8f106-c984-4de1-9763-c254f734dacf.png)

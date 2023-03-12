@@ -41,3 +41,28 @@ Once you're up and running with Create React Native App, visit [this tutorial](h
 
 - `npx react-native run-ios` -- (`react-native run-ios`) Build the iOS App (requires a MacOS computer).
 - `npx react-native run-android` -- (`react-native run-android`) Build the Android App.
+
+
+## Screenshots
+
+- Loading
+
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-03-12 at 00 14 21](https://user-images.githubusercontent.com/35379088/224527839-4e1e2bc7-0355-47b4-b737-ca0d04c85eab.png)
+
+- Home
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-03-12 at 00 15 07](https://user-images.githubusercontent.com/35379088/224527852-feb8f106-c984-4de1-9763-c254f734dacf.png)
+
+- Filter in Home
+
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-03-12 at 00 14 53](https://user-images.githubusercontent.com/35379088/224527884-e3093259-fca1-470d-aedf-6a4e179c67fd.png)
+
+- Detail
+
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-03-12 at 00 14 38](https://user-images.githubusercontent.com/35379088/224527885-590205ca-3b26-4d6c-9381-eea1068a2615.png)
+
+
+
+
+
+
+

@@ -8,6 +8,10 @@ Test Femsa
 
 ## Screenshots
 
+- Erro Fetching
+
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-03-12 at 00 39 07 (1)](https://user-images.githubusercontent.com/35379088/224528830-cfe8eb0f-70e4-4d94-849f-3d8ec9f5cd54.png)
+
 - Loading
 
 ![Simulator Screen Shot - iPhone 14 Pro Max - 2023-03-12 at 00 14 21](https://user-images.githubusercontent.com/35379088/224528053-01fd1594-4740-47f5-9ecf-a2278d8af1d2.png)
